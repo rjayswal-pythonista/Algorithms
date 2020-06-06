@@ -41,7 +41,7 @@ class KargerMinCutter:
 if __name__ == "__main__":
     min_cut = 99999
     for i in range(40000):
-        min_cutter = KargerMinCutter('assignment3.txt')
+        min_cutter = KargerMinCutter('kargerMinCut.txt')
         cut = min_cutter.find_min_cut()
         if cut < min_cut:
             min_cut = cut
