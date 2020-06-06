@@ -6,4 +6,4 @@ This repo holds my solutions (in Python 3) to the programming assignments for th
 
    * [Programming Assignment 1 - Inversions Calculation using MergeSort Algorithm](https://github.com/rjayswal-pythonista/Algorithms/tree/master/MergeSort)
    * [Programming Assignment 2 - QuickSort](https://github.com/rjayswal-pythonista/Algorithms/tree/master/QuickSort)
-   * Programming Assignment 3 - Karger's min cut Algorithm
+   * [Programming Assignment 3 - Karger's min cut Algorithm](https://github.com/rjayswal-pythonista/Algorithms/tree/master/karger_min_cut_algorithm)
