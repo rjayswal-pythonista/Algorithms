@@ -1,4 +1,4 @@
-# Programming Assignment 1 - Inversions Calculator
+# Programming Assignment 1 - Inversions Calculation using MergeSort
 
 In this first programming assignment we are given [this](https://github.com/rjayswal-pythonista/Algorithms/blob/master/MergeSort/input.txt) long list of integers and our goal is to compute the number of inversions in this file. We should print out exactly the number of these inversions.
 
